@@ -234,7 +234,7 @@
 {"en":"United States", "de":"Vereinigte Staaten von Amerika","code":"US"},
 {"en":"Uruguay", "de":"Uruguay","code":"UY"},
 {"en":"Uzbekistan", "de":"Usbekistan","code":"UZ"},
-{"en":"Holy See (vatican City State),Vatikanstadt","code":"VA"},
+{"en":"Holy See (Vatican City State)", "de":"Vatikanstadt","code":"VA"},
 {"en":"Saint Vincent And The Grenadines", "de":"St. Vincent und die Grenadinen","code":"VC"},
 {"en":"Venezuela, Bolivarian Republic Of", "de": "Venezuela","code":"VE"},
 {"en":"Virgin Islands, British", "de":"Britische Jungferninseln","code":"VG"},
